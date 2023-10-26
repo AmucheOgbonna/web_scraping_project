@@ -1,4 +1,4 @@
-#A WEB SCRAPING PROJECT
+# A WEB SCRAPING PROJECT
 
 <p>A simple webscraping project using Python, BeautifulSoup and Pandas. <p>
 <p>Scraped and cleaned the data from <link>https://en.wikipedia.org/wiki/Tesla,_Inc.</link></p>
