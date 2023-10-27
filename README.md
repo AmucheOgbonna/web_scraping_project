@@ -13,3 +13,4 @@ Link to Project on Colaboratory <link>https://colab.research.google.com/drive/1m
 <p>Python code available in <code>amazon_scraping.py</code></p>
 
 ![Output of the Amazon Data scraped from Wikipedia!]([/assets/images/san-juan-mountains.jpg](https://github.com/AmucheOgbonna/web_scraping_project/blob/main/amazon_df.png)https://github.com/AmucheOgbonna/web_scraping_project/blob/main/amazon_df.png "San Juan Mountains")
+![Output of the Amazon Data scraped from Wikipedia.]([/assets/images/san-juan-mountains.jpg](https://drive.google.com/file/d/1JI2cB2QXGicdd2mHYoVj8o6wV4ksViHH/view?usp=sharing)https://drive.google.com/file/d/1JI2cB2QXGicdd2mHYoVj8o6wV4ksViHH/view?usp=sharing "Amazon_df")
