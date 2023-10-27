@@ -10,4 +10,6 @@ Link to Project on Colaboratory<link>https://colab.research.google.com/drive/1_R
 ### Amazon Web Scraping Project
 <p>Scraped and cleaned the data from <link>https://en.wikipedia.org/wiki/Amazon_(company)</link></p>
 Link to Project on Colaboratory <link>https://colab.research.google.com/drive/1mQofkyYkSEYUuQkAaupFl_kkVf4ka0kt#scrollTo=6a4v54-bV47S</link>
-<p>Python code available in <code>amazon_project.py</code></p>
+<p>Python code available in <code>amazon_scraping.py</code></p>
+
+![Output of the Amazon Data scraped from Wikipedia!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
